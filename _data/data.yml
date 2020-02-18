@@ -88,23 +88,25 @@ experiences:
             obtained from Foundry with other peripheral blocks.
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: 3D Point Transformer Network for Mesh Generation
+#         link: "#hook"
+        tagline: "Working on developing a novel framework for Mesh Generation through only a single 2D image of the object as a part of research under Professor Justin Johnson at Umich."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Deep Learning for Vision
+        link: "https://github.com/hansalshah/DeepLearning_Pytorch"
+        tagline: "Implemented various algorithms including Image Captioning using RNNs, LSTMs with attention, Object Detection using YOLO and Faster-RCNN, Image Style Transfer on Python using PyTorch"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
+      - title: Multimedia Forensics: Copy Move Forgery Detection (CMFD)
+        link: "https://github.com/hansalshah/CMFD-Detection-using-SIFT"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        details: |
+            - Developed an algorithm on Python and MATLAB based on SIFT and GLCM to detect multiple copy move forgeries in the same image where each image has undergone a different geometrical transformation and is robust to JPEG Compression.
+            - Tested this approach on the COVERAGE dataset, which led to an increase in accuracy from 60.5% using the previous state of the art method to 70.07% and reduction in FPR from 56% to 34.34%. This work was published in IEEE Tencon’19.
       - title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
