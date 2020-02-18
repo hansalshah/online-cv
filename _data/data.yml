@@ -136,23 +136,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & PyTorch
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Machine Learning
         level: 98%
 
-      - name: Angular
+      - name: Linear Algebra
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Probability and Random Processes
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Tensorflow
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: OpenCV
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
