@@ -101,7 +101,7 @@ projects:
         link: "https://github.com/hansalshah/DeepLearning_Pytorch"
         tagline: "Implemented various algorithms including Image Captioning using RNNs, LSTMs with attention, Object Detection using YOLO and Faster-RCNN, Image Style Transfer on Python using PyTorch"
 
-      - title: Multimedia Forensics: Copy Move Forgery Detection
+      - title: Multimedia Forensics - Copy Move Forgery Detection
         link: "https://github.com/hansalshah/CMFD-Detection-using-SIFT"
         tagline: "Developed an algorithm on Python and MATLAB based on SIFT and GLCM to detect multiple copy move forgeries in the same image where each image has undergone a different geometrical transformation and is robust to JPEG Compression."
         
