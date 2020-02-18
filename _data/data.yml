@@ -103,17 +103,15 @@ projects:
 
       - title: Multimedia Forensics: Copy Move Forgery Detection (CMFD)
         link: "https://github.com/hansalshah/CMFD-Detection-using-SIFT"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-        details: |
-            - Developed an algorithm on Python and MATLAB based on SIFT and GLCM to detect multiple copy move forgeries in the same image where each image has undergone a different geometrical transformation and is robust to JPEG Compression.
-            - Tested this approach on the COVERAGE dataset, which led to an increase in accuracy from 60.5% using the previous state of the art method to 70.07% and reduction in FPR from 56% to 34.34%. This work was published in IEEE Tencon’19.
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Developed an algorithm on Python and MATLAB based on SIFT and GLCM to detect multiple copy move forgeries in the same image where each image has undergone a different geometrical transformation and is robust to JPEG Compression."
+        
+     - title: Multi-class Car Classification
+#         link: "#"
+        tagline: "Multiclass classification on the Auto-mpg dataset done by implementing and contrasting various Machine Learning methods such as ML Estimation, Bayesian Estimation, Kernel Density Estimate, K-NN, Perceptron Algorithm and Multi-Layered Neural Network on Python."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Camera Assist for Visually Impaired People
+#         link: "#"
+        tagline: "Worked on an algorithm in MATLAB and VHDL which instructs the visually impaired to move the camera based on the location of the detected face in the frame. This is done by computationally and memory efficient skin detection algorithm."
 
 publications:
     title: Publications
