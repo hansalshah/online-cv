@@ -79,6 +79,13 @@ education:
 #           - Bullet point
 #           - Bullet point
 experiences:
+    - role: Software Engineering Intern
+      time: June 2020 - August 2020
+      company: Uber ATG
+      details: |
+          - Worked on End-to-end detection and trajectory prediction models directly from raw sensor data.
+          - Designed and Implemented a novel approach to incorporating HDMap in end-to-end joint detection and prediction models.
+          - Experimented with a novel sequential prediction scheme to  better exploit temporal dependencies across time for multi-modal trajectories.
     - role: Student Research Trainee
       time: May 2018 - July 2018
       company: Samsung Semiconductor Research and Development
@@ -92,10 +99,14 @@ projects:
     assignments:
       - title: 3D Point Transformer Network for Mesh Generation
 #         link: "#hook"
-        tagline: "Working on developing a novel framework for Mesh Generation through only a single 2D image of the object as a part of research under Professor Justin Johnson at Umich."
-
+        tagline: "Working on developing a novel framework for Mesh Generation through only a single 2D image of the object."
+      
+      - title: SICGAN
+        link: "https://github.com/hansalshah/SICGAN"
+        tagline: "End to end Single Image Conditional GAN (SICGAN) framework for generating realistic meshes of 3D objects using a single RGB image."
+        
       - title: Deep Learning for Vision
-        link: "https://github.com/hansalshah/DeepLearning_Pytorch"
+#         link: "https://github.com/hansalshah/DeepLearning_Pytorch"
         tagline: "Implemented various algorithms including Image Captioning using RNNs, LSTMs with attention, Object Detection using YOLO and Faster-RCNN, Image Style Transfer on Python using PyTorch"
 
       - title: Multimedia Forensics - Copy Move Forgery Detection
